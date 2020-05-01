@@ -1,0 +1,1 @@
+typedef ParamsCallback(dynamic args);
